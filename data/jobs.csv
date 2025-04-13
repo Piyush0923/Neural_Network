@@ -1,0 +1,66 @@
+id,title,department,location,type,description,requirements,responsibilities,skills_required,experience_required,education_required,salary_range,status
+1,Senior Software Engineer,Engineering,Remote,Full-time,"We are looking for a Senior Software Engineer to join our growing engineering team. In this role, you will design and implement scalable software solutions, contribute to architectural decisions, and mentor junior developers.","- 5+ years of professional software development experience
+- Strong proficiency in Python and JavaScript
+- Experience with cloud platforms (AWS preferred)
+- Knowledge of containerization and orchestration tools
+- Experience with modern web frameworks
+- Strong understanding of software design patterns","- Design and develop high-quality software solutions
+- Collaborate with product managers to define features
+- Write clean, testable code with appropriate documentation
+- Perform code reviews and mentor junior developers
+- Troubleshoot and fix bugs in existing applications
+- Contribute to continuous improvement of development practices","Python, JavaScript, AWS, Docker, Kubernetes, REST APIs, Microservices, Git",5-8 years,"Bachelor's degree in Computer Science or related field, or equivalent experience","$120,000 - $160,000",Open
+2,Data Scientist,Data,San Francisco,Full-time,"Join our data science team to develop machine learning models that power our product recommendations and user experience optimizations. You'll work with large datasets and collaborate with cross-functional teams.","- Advanced degree in Data Science, Statistics, or related field
+- Experience with machine learning frameworks like TensorFlow or PyTorch
+- Strong programming skills in Python
+- Experience with SQL and data manipulation
+- Knowledge of statistical analysis and modeling","- Develop and implement machine learning models
+- Process and analyze large datasets
+- Create data visualizations to communicate insights
+- Collaborate with engineering to implement models in production
+- Monitor and improve model performance
+- Research and implement new data science techniques","Python, R, SQL, Machine Learning, TensorFlow, PyTorch, Data Visualization",3-5 years,"Master's or PhD in Data Science, Statistics, Computer Science, or related field","$130,000 - $170,000",Open
+3,DevOps Engineer,Infrastructure,New York,Full-time,"We're seeking a DevOps Engineer to help us build and maintain our cloud infrastructure. You'll be responsible for automation, CI/CD pipelines, and ensuring our systems are secure, scalable, and reliable.","- 3+ years of experience in DevOps or SRE roles
+- Strong experience with AWS or other cloud platforms
+- Proficiency with infrastructure as code tools like Terraform
+- Experience with container orchestration (Kubernetes)
+- Knowledge of monitoring and logging systems
+- Understanding of security best practices","- Design and implement cloud infrastructure
+- Automate deployment processes and create CI/CD pipelines
+- Monitor system performance and respond to incidents
+- Implement security best practices and compliance requirements
+- Optimize infrastructure for cost and performance
+- Collaborate with development teams to improve workflows","AWS, Terraform, Docker, Kubernetes, CI/CD, Jenkins, Monitoring tools, Linux",3-6 years,"Bachelor's degree in Computer Science or related field, or equivalent experience","$110,000 - $150,000",Open
+4,Product Marketing Manager,Marketing,Chicago,Full-time,"The Product Marketing Manager will be responsible for developing marketing strategies, creating compelling messaging, and driving adoption of our products. You'll work closely with product and sales teams.","- 4+ years of experience in product marketing
+- Excellent communication and storytelling skills
+- Experience launching and positioning B2B or B2C products
+- Strong analytical skills and data-driven approach
+- Knowledge of market research methodologies
+- Experience with marketing automation tools","- Develop product positioning and messaging
+- Create marketing collateral and sales enablement materials
+- Conduct competitive analysis and market research
+- Collaborate with product teams on go-to-market strategies
+- Analyze marketing performance and customer feedback
+- Present product demos to potential customers","Market Research, Content Creation, Competitive Analysis, Campaign Management, Analytics, Product Messaging",4-6 years,"Bachelor's degree in Marketing, Business, or related field","$100,000 - $130,000",Open
+5,UX/UI Designer,Design,Boston,Full-time,"We are looking for a talented UX/UI Designer to create exceptional user experiences. You'll conduct user research, create wireframes and prototypes, and collaborate with developers to implement your designs.","- 3+ years of experience in UX/UI design
+- Strong portfolio demonstrating user-centered design process
+- Proficiency with design and prototyping tools like Figma
+- Experience conducting user research and usability testing
+- Understanding of accessibility guidelines
+- Knowledge of frontend development principles","- Create wireframes, prototypes, and high-fidelity designs
+- Conduct user research and usability testing
+- Develop and maintain design systems
+- Collaborate with product managers to define requirements
+- Work with engineers to implement designs
+- Continuously improve user experience based on data","Figma, User Research, Wireframing, Prototyping, Design Systems, Usability Testing",3-5 years,"Bachelor's degree in Design, HCI, or related field, or equivalent experience","$90,000 - $130,000",Open
+6,Machine Learning Engineer,AI Research,Seattle,Full-time,"As a Machine Learning Engineer, you'll develop and deploy machine learning models to solve complex problems. You'll work on the full ML lifecycle from research to production deployment.","- Strong understanding of machine learning algorithms
+- Experience building and deploying ML models to production
+- Proficiency in Python and ML frameworks
+- Knowledge of distributed computing
+- Experience with MLOps tools and practices
+- Understanding of data structures and algorithms","- Research and implement machine learning algorithms
+- Develop scalable ML infrastructure
+- Deploy and monitor models in production
+- Optimize model performance and efficiency
+- Collaborate with data engineers on data pipelines
+- Stay current with advances in machine learning","Python, TensorFlow, PyTorch, Machine Learning, MLOps, Data Processing, Cloud Platforms",4-7 years,"Master's or PhD in Computer Science, Machine Learning, or related field","$140,000 - $180,000",Open
